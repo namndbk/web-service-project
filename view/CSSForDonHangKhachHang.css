@@ -1,0 +1,52 @@
+.hang_muc_don_hang .de_muc {
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 5rem;
+    font-size: 1.6rem;
+	overflow: hidden;
+}
+.hang_muc_don_hang .de_muc .title {
+	font-size: 1.9rem;
+	margin-bottom: 0.8rem;
+	text-decoration: underline;
+	color:  #000066;
+}
+.don_hang .san_pham{
+	text-align: center;
+}
+.don_hang div {
+	overflow: hidden;
+}
+.don_hang .tong_tien {
+	font-size: 1.5rem;
+	color: #cc0000;	
+	padding-top: 1rem;
+	font-weight: bold;
+	margin-bottom: 2rem;
+	border-bottom: solid;
+	border-bottom-color: #000066;
+	border-bottom-width: 0.1rem;	
+    text-align: right;	
+}
+.don_hang .ten_san_pham {
+	font-size: 1.4rem;
+	font-weight: bold;
+}
+.don_hang .thanh_tien {
+	font-size: 1.5rem;
+	font-weight: bold;
+    color: #cc0000;		
+}
+.don_hang .ngay_dat {
+	font-size: 1.4rem;
+	text-align: right;
+}
+.don_hang .cua_hang {
+	text-align: right;
+}
+.don_hang .cua_hang {
+	font-size: 1.2rem;
+}
+.don_hang .cua_hang .ten_cua_hang {
+	color: #0d0dff;
+}

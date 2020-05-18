@@ -1,0 +1,41 @@
+.hang_trong_gio {
+	margin-bottom: 7rem;
+}
+.hang_trong_gio .title {
+	padding-top: 2rem;
+	text-align: center;
+	font-size: 1.7rem;
+	font-weight: bold;
+	margin-bottom: 3rem;
+}
+.hang_trong_gio .san_pham {
+	margin-bottom: 2rem;
+	text-align: center;	
+}
+.hang_trong_gio .ten_san_pham {
+	font-size: 1.4rem;
+	font-weight: bold;
+}
+.hang_trong_gio .gia {
+	font-size: 1.5rem;
+	font-weight: bold;
+    color: #cc0000;		
+}
+.hang_trong_gio .so_luong .tang {
+	color: #d6d6c2;
+}
+.hang_trong_gio .so_luong .giam {
+	color: #d6d6c2;
+}
+.hang_trong_gio .dat_hang .fa-plus {
+	font-size: 2rem;
+	color: #0000cc;
+}
+.hang_trong_gio .dat_hang .fa-check-circle {
+	font-size: 2rem;
+	color:  #00cc00;
+}
+.hang_trong_gio .xoa .fa-trash {
+	font-size: 2rem;
+	color: #990000;
+}

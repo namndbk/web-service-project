@@ -1,0 +1,51 @@
+.thong_tin_nguoi_dung {
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+	border: groove;
+	border-color: #d6d6c2;
+	box-shadow: 0.1rem 0.5rem 0.5rem rgba(0, 0, 0, .5);
+    border-radius: 0.8rem;	
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+    border-width: 0.2rem;	
+	background-image: linear-gradient(to top right, #ccffcc 0%, #ffccff 100%);
+}
+.thong_tin_nguoi_dung .title {
+	font-size: 1.9rem;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 1rem;
+	color:  #000066;
+	text-decoration: underline;
+}
+.thong_tin_nguoi_dung .muc_thong_tin {
+	margin-bottom: 0.6rem;
+	border-bottom: solid;
+	border-bottom-color: #b8b894;
+	border-bottom-width: 0.1rem;
+}
+.thong_tin_nguoi_dung .gia_tri {
+	text-align: center;
+}
+.nut_chuc_nang_profile .item {
+	text-align: center;
+}
+.nut_chuc_nang_profile .item div {
+	margin-bottom: 1rem;
+}
+.nut_chuc_nang_profile .item .fa-hourglass-half {
+	color: #ff6600;
+}
+.nut_chuc_nang_profile .item .fa-truck {
+	color: #0066ff;
+}
+.nut_chuc_nang_profile .item .fa-archive {
+	color: #009900;
+}
+.nut_chuc_nang_profile .item .fa-pencil-square {
+	color: #800000;
+}
+.chuc_nang_profile {
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}

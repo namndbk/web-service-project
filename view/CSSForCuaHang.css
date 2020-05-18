@@ -1,0 +1,108 @@
+.add_product {
+	position: fixed;
+	z-index: 100;
+	left: 20px;
+	bottom: 10px;
+}
+.add_product i {
+	font-size: 3rem;
+	color: #a00000;
+}
+.san_pham_cua_hang .row {
+	border-top: groove;
+	border-bottom-color: #ebebe0;
+	margin-bottom: 5px;
+}
+.san_pham_cua_hang .row .name_cost {
+	text-align: center;
+	padding: auto;	
+}
+.san_pham_cua_hang .row .name_cost .name {
+	font-weight: bold;
+	overflow: hidden;
+}
+.san_pham_cua_hang .row .name_cost .cost {
+	color: red;
+	font-weight: bold;
+	overflow: hidden;
+	font-size: 1.6rem;
+}
+.san_pham_cua_hang .row .da_ban {
+	text-align: center;
+	font-size: 1.6rem;
+	font-weight: bold;
+}
+.san_pham_cua_hang .row .function {
+	text-align: center;
+}
+.san_pham_cua_hang .row .function div {
+	overflow: hidden;
+}
+.san_pham_cua_hang .row .function div i {
+	font-size: 2.3rem;
+}
+.san_pham_cua_hang .row .function div .fa-pencil-square {
+	color: #0a7a0a;
+}
+.san_pham_cua_hang .row .function div .fa-trash {
+	color: #8d0000;
+}
+.san_pham_cua_hang .row .div {
+	overflow: hidden;
+}
+.hang_muc {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 1.6rem;
+	text-align: center;
+	font-weight: bold;
+}
+.so_lieu_thong_ke .item{
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	height: 8rem;
+	border: solid;
+	border-width: 0.12rem;
+	border-radius: 4px;
+	width: 95%;
+    margin-left: 2%;
+	box-shadow: 1px 3px 3px rgba(0, 0, 0, .5);	
+    background: linear-gradient(#f7ffff,#ebffff);
+}
+.so_lieu_thong_ke .item .icon {
+	height: 8rem;
+	font-size: 4rem;
+	line-height: 8rem;
+	text-align: center;
+}
+.so_lieu_thong_ke .item .noi_dung {
+	height: 8rem;
+	overflow: hidden;	
+}
+.so_lieu_thong_ke .item .noi_dung .title {
+	font-size: 1.6rem;
+	line-height: 3rem;
+	height: 3rem;
+	text-align:center;
+	overflow: hidden;	
+}
+.so_lieu_thong_ke .item .noi_dung .so_lieu {
+	font-size: 2.2rem;
+	line-height: 5rem;
+	height: 5rem;
+	color: #000099;
+	text-align: center;
+	overflow: hidden;	
+}
+.so_lieu_thong_ke .item .fa-btc {
+	color: #ffcc00;
+}
+.so_lieu_thong_ke .item .fa-dropbox {
+	color: #693603;
+}
+.so_lieu_thong_ke .item .fa-apple {
+	color: #009e00;
+}
+.so_lieu_thong_ke .item .fa-thumbs-up {
+	color: #001aff;
+}

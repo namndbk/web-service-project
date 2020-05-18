@@ -1,0 +1,153 @@
+.khung_info {
+	border: groove;
+	border-color: #d6d6c2;
+	box-shadow: 0.1rem 0.5rem 0.5rem rgba(0, 0, 0, .5);
+    border-radius: 0.8rem;	
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+.khung_info .form_name {
+	font-weight: bold;
+	font-size: 2rem;
+	text-align: center;
+	margin-bottom: 2rem;
+}
+.khung_info .form_info {
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 1.5rem;
+}
+.khung_info .form_info i {
+	display: inline-block;
+	border: solid;
+	border-radius: 0.5rem;
+	border-color: #d6d6c2;
+	width: 10%;
+	text-align: center;
+	border-width: 0.1rem;
+    line-height: 3rem;
+	background-color: white;
+}
+.khung_info .form_info .anh_san_pham {
+	text-align: center;
+}
+.khung_info .form_info .anh_san_pham .list-inline li {
+	margin-left: 2rem;
+}
+.khung_info .form_info .anh_san_pham .list-inline li div{
+	text-align:center;
+	margin-bottom: 1rem;
+	overflow: hidden;
+}
+.khung_info .form_info input[type=text] {
+    display: inline-block;	
+	border: solid;
+	border-width: 0.1rem;
+	border-radius: 0.5rem;
+	border-color: #d6d6c2;
+	width: 85%;
+	line-height: 3rem;
+	padding-left: 1rem;
+}
+.khung_info .form_info input[type=datetime-local] {
+    display: inline-block;	
+	border: solid;
+	border-width: 0.1rem;
+	border-radius: 0.5rem;
+	border-color: #d6d6c2;
+	width: 85%;
+	line-height: 3rem;
+	padding-left: 1rem;
+}
+.khung_info .form_info input[type=password] {
+    display: inline-block;	
+	border: solid;
+	border-width: 0.1rem;
+	border-radius: 0.5rem;
+	border-color: #d6d6c2;
+	width: 85%;
+	line-height: 3rem;
+	padding-left: 1rem;
+}
+
+.khung_info .form_info .form_submit {
+	text-align: center;
+}
+.khung_info .form_info .form_submit a {
+	font-weight: bold;
+	color: black;
+}
+.khung_info .form_info .form_submit button{
+	line-height: 2.5rem;
+	color: black;
+	font-weight: bold;
+	border-radius: 0.6rem;
+	background-image: linear-gradient(#fafaf7,#dbdbc9,#fafaf7);
+	margin-top: 1.5rem;
+}
+.khung_info .form_info .form_submit button:focus { 
+    outline: none;
+}
+.khung_info .form_info input:focus {
+	outline: none;
+}
+.login_form .khung_info {
+	margin-top: 7rem;
+	background-image: linear-gradient(#ebffff,#adebff,#85e0ff,#7a7abd);
+}
+.form_thong_tin_san_pham {
+	margin-top: 7rem;
+	margin-bottom: 7rem;	
+}
+.thong_bao_sau_nhap {
+	width: 60vw;
+	position: fixed;
+	z-index: 101;
+	bottom: -14rem;
+    left: 20vw;	
+	border-style: solid;
+	border-color: #a8a87d;
+	border-radius: 5px;
+	border-width: 0.1rem;
+	height: 12rem;
+	background-image: linear-gradient(#fff2ff,#ffe6ff);
+	transition: bottom 1s ease 0s;
+    transition-timing-function: ease;
+    -webkit-transition: bottom 1s ease 0s;
+    -webkit-transition-timing-function: ease;	
+}
+.o_dau_gia {
+	margin-top: 4rem;
+	margin-bottom: 4rem;		
+}
+.thong_bao_sau_nhap .status {
+	color: #d30000;
+	font-size: 1.6rem;
+	margin-top: 1.6rem;
+	margin-bottom: 3rem;
+	margin-left: 3rem;
+	font-weight: bold;
+}
+.thong_bao_sau_nhap .xac_nhan {
+	text-align: center;
+}
+.form_thong_tin_san_pham .form_info .nganh_hang span {
+	font-size: 2.2rem;
+}
+.form_thong_tin_san_pham .form_info .nganh_hang span:hover {
+	font-size: 2.5rem;
+}
+.form_thong_tin_san_pham .form_info .nganh_hang ul li .choosen {
+	font-size: 2.5rem;
+	color: #ff0000;
+}
+.form_thong_tin_giao_hang {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+label.error {
+	color: red;
+}

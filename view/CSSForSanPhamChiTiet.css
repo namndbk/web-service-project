@@ -1,0 +1,127 @@
+.anh_minh_hoa_frame .slide-element {
+	text-align: center;
+}
+.thong_so_san_pham::-webkit-scrollbar {
+    width: 0.5rem;
+	margin-left: -8rem;
+}
+.thong_so_san_pham::-webkit-scrollbar-track {
+    background: #fafaf7;
+    box-shadow: inset 0 0 0.1rem;
+    border-radius: 0.2rem;	
+}
+.thong_so_san_pham::-webkit-scrollbar-thumb {
+    background: #c2c2a3;
+	border-radius: 0.8rem;
+}
+.thong_so_san_pham::-webkit-scrollbar-thumb:hover {
+    background: #a3a375;
+}
+.thong_so_san_pham {
+	direction: rtl;
+	padding-left: 6rem;
+    padding-right: 3rem;
+    overflow-y: auto;
+	box-shadow: 1px 5px 5px rgba(0, 0, 0, .5);
+    background-image: radial-gradient(#edffff, #e6e6fa, #d9ffd9);
+}
+.thong_so_san_pham .like_basket {
+    float: right;
+    padding-top: 4rem;
+    font-size: 2.4rem;
+}
+.thong_so_san_pham .like_basket div {
+    margin-right: 2rem;
+}
+.thong_so_san_pham .like_basket .like {
+    color: #7EBFC0;
+}
+.thong_so_san_pham .like_basket .basket_choosen {
+    color :#0066ff;
+	font-size : 2.8rem;	
+}
+.thong_so_san_pham .like_basket .like_choosen {
+    color :#ff3d0d;
+	font-size: 2.8rem;	
+}
+.thong_so_san_pham .ten_san_pham {
+	padding-top: 4rem;
+	direction: ltr;
+    font-size: 2.7rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
+.thong_so_san_pham .gia_ca {
+	direction: ltr;
+    margin-bottom: 2rem;
+}
+.thong_so_san_pham .gia_ca .gia_cu {
+    font-size: 1.9rem;
+    color: #9e9e6e;
+    margin-bottom: 1.2rem;
+    text-decoration: line-through;
+}
+.thong_so_san_pham .gia_ca .gia_moi {
+    font-size: 2.4rem;
+    color: #ff0000;    
+    font-weight: bold;
+}
+.thong_so_san_pham .danh_gia {
+	direction: ltr;
+}
+.thong_so_san_pham .danh_gia .rate {
+    margin-top: 1.1rem;
+    margin-left: 4rem;
+    width: 40%;
+    height: 0.8rem;
+    border-style: solid;
+    border-width: 0.1rem;
+    border-radius: 5px;
+    margin-bottom: 3rem;
+    border-color: #F1F1F1;
+	box-shadow: 1px 3px 3px rgba(0, 0, 0, .5);	
+}
+.thong_so_san_pham .danh_gia .rate div {
+    height: 0.7rem;
+	border-style: solid;
+	border-color: #ffcc66;
+	border-width: 0.1rem;	
+    border-radius: 5px;	
+	background-image: radial-gradient(#ffffbf,#ffd94c);
+	float: left;
+}
+.thong_so_san_pham .mo_ta {
+    margin-bottom: 2.5rem;
+	direction: ltr;
+	margin-top: 2rem;
+}
+.thong_so_san_pham .mo_ta div {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 1rem;
+}
+.thong_so_san_pham .shop_name {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.7rem;
+}
+.thong_so_san_pham .so_dien_thoai {
+    font-size: 1rem;
+    margin-bottom: 0rem;
+    color: #000066;
+}
+.deadline_dau_gia {
+	margin-top : 4rem;
+	margin-bottom: 2rem;
+	font-size: 2.5rem;
+	text-align: center;
+	color: #f70000;
+}
+.count_down {
+	margin-bottom: 4rem;
+	font-size: 3.5rem;
+	text-align: center;
+	color: #00b200;	
+	font-weight: bold;
+}

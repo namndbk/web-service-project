@@ -1,0 +1,124 @@
+.danh_gia_san_pham {
+	margin-top: 5rem;
+	margin-left: 5rem;	
+}
+.danh_gia_san_pham .title {
+	font-size: 1.6rem;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #000066;	
+}
+.danh_gia_san_pham .danh_gia_sao {
+	margin-bottom: 3rem;
+	margin-top: 3rem;
+	margin-left: 6rem;
+}
+.danh_gia_san_pham .danh_gia_sao div {
+	margin-bottom: 0.2rem;
+	font-size: 1.6rem;
+	color: #ff9900;
+}
+.danh_gia_san_pham .danh_gia_sao div .choosen {
+	font-size: 2rem;
+	color: #ff0500;
+}
+.danh_gia_san_pham .nut_luu {
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+	margin-left: 6rem;
+	margin-right: 6rem;		
+}
+.binh_luan_san_pham {
+	margin-top: 5rem;
+	margin-left: 5rem;
+}
+.binh_luan_san_pham .title {
+	font-size: 1.6rem;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #000066;
+}
+.binh_luan_san_pham .list_binh_luan {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	margin-left: 6rem;
+	margin-right: 6rem;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan {
+	margin-top : 1.3rem;
+	background-image:  linear-gradient(#fafaf7,#ffffff,#fafaf7);
+	border-radius: 4px;
+	padding-bottom: 0.7rem;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .tai_khoan {
+	font-size: 0.9rem;
+	margin-bottom: 0.9rem;
+	margin-left: 0.8rem;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .noi_dung {
+	margin-left: 1.8rem;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .noi_dung div {
+	margin-bottom: 0.6rem;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .nut_reply {
+	margin-left: 2.5rem;
+	font-size: 1rem;
+	color: #0066ff;
+	font-style: italic;
+	text-decoration: underline;
+	margin-top: 1rem;
+	margin-bottom: 0.8rem;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .o_input {
+	margin-left: 2.5rem;	
+	margin-top: 1rem;
+	margin-bottom: 0.8rem;	
+	line-height: 2.5rem;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .o_input input[type="text"] {
+	border: none;
+	width: 80%;
+	padding-left: 2rem;
+	margin-right: 1rem;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .o_input input[type="text"]:focus {
+	outline: none;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .o_input span {
+	width: 7%;
+}
+.binh_luan_san_pham .list_binh_luan .binh_luan .o_input .fa-angle-double-up {
+	font-weight: bold;
+	text-align: right;
+}
+.binh_luan_san_pham .fa-paper-plane {
+	color: #3399ff;
+}
+.binh_luan_san_pham .binh_luan_moi {
+	line-height: 3rem;
+	margin-left: 6rem;
+	margin-right: 6rem;
+	margin-top: 2.5rem;
+	margin-bottom: 3rem;
+	background-image: linear-gradient(#e6ffd9,#b2ff8c,#8cd18c);
+	border-bottom-style: groove;
+	border-bottom-color: #b8b894;
+	border-bottom-width: 0.2rem;	
+	box-shadow: 1px 5px 5px rgba(0, 0, 0, .5);
+}
+.binh_luan_san_pham .binh_luan_moi input[type="text"] {
+	border: none;
+	width: 85%;
+	padding-left: 2rem;
+	margin-right: 2rem;
+	background-image: linear-gradient(#e6ffd9,#b2ff8c,#8cd18c);
+}
+.binh_luan_san_pham .binh_luan_moi input[type="text"]:focus {
+	outline: none;
+}
+.binh_luan_san_pham .binh_luan_moi span {
+	width: 5%;
+	font-size: 1.6rem;
+	padding-top: 0.7rem;
+}

@@ -1,0 +1,89 @@
+.muc_don_hang .title {
+	text-align: center;
+	font-size: 1.6rem;
+	font-weight: bold;
+	padding-top: 3rem;
+	padding-bottom: 5rem;
+	border-bottom: solid;
+	border-bottom-width: 0.1rem;
+	border-bottom-color: #ccccb3;	
+}
+.muc_don_hang .title div{
+	overflow: hidden;
+}
+.muc_don_hang .tong_tien {
+	margin-bottom: 2rem;
+	border-bottom: solid;
+	border-bottom-width: 0.1rem;
+	border-bottom-color: #ccccb3;
+}
+.muc_don_hang .don_hang {
+	padding-top: 2rem;
+}
+.muc_don_hang .don_hang .item {
+	overflow: hidden;
+	text-align: center;
+}
+.muc_don_hang .don_hang .ten {
+	font-size: 1.4rem;
+	font-weight: bold;
+	color: #053800;
+}
+.muc_don_hang .don_hang .thanh_tien {
+	font-size: 1.4rem;
+	font-weight: bold;
+	color: #f00000;
+}
+.muc_don_hang .don_hang .hien_con {
+	font-size: 1.4rem;
+}
+.muc_don_hang .don_hang .khach_hang {
+	text-align: right;
+	padding-right: 2rem;
+}
+.muc_don_hang .don_hang .khach_hang .ten{
+	font-size: 1.3rem;
+	color: #1717ab;
+}
+.muc_don_hang .don_hang .khach_hang .so_dien_thoai {
+	font-size: 1.3rem;
+}
+.muc_don_hang .don_hang .tong_tien {
+	font-size: 1.6rem;
+	color: #f00000;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 2rem;	
+}
+.muc_don_hang .don_hang .thao_tac {
+	font-size: 2.1rem;
+	text-align: center;
+}
+.muc_don_hang .don_hang .dia_chi {
+	font-size: 1.3rem;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 2rem;
+}
+.muc_don_hang .don_hang .ngay_giao {
+	font-size: 1.1rem;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 2rem;	
+}
+.muc_don_hang .don_hang .thao_tac .xac_nhan {
+	color: #00a32e;
+	margin-top: 0.4rem;
+	margin-bottom: 0.8rem;
+}
+.muc_don_hang .don_hang .thao_tac .da_giao {
+	color: #00a32e;
+	margin-top: 0.4rem;
+	margin-bottom: 0.8rem;
+}
+.muc_don_hang .don_hang .thao_tac .tu_choi {
+	color: #8f0000;
+}
+.muc_don_hang .don_hang .thao_tac .huy_don {
+	color: #8f0000;
+}

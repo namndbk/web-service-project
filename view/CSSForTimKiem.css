@@ -1,0 +1,42 @@
+.filter {
+	padding-top: 15px;
+	overflow: auto;
+	padding-bottom: 25px;
+}
+.filter::-webkit-scrollbar {
+    width: 0.5rem;
+	margin-left: -8rem;
+}
+.filter::-webkit-scrollbar-track {
+    background: #fafaf7;
+    box-shadow: inset 0 0 0.1rem;
+    border-radius: 0.2rem;	
+}
+.filter::-webkit-scrollbar-thumb {
+    background: #c2c2a3;
+	border-radius: 0.8rem;
+}
+.filter::-webkit-scrollbar-thumb:hover {
+    background: #a3a375;
+}
+.filter div .item {
+	padding-bottom: 10px;
+}
+.filter div .item h4 {
+	color: #050563;
+	font-weight: bold;
+}
+.filter div .item div {
+	margin-left: 5px;
+}
+.filter div .rate div i {
+	color: #ff9900;
+}
+.filter div .rate div .choosen {
+	color: #ff0500;
+	font-size: 1.8rem;
+}
+.filter div .sort .choosen {
+	color: #ff0500;
+	font-weight: bold;
+}
